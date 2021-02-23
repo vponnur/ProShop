@@ -1,0 +1,29 @@
+paypal payment details
+
+First name:
+John
+Last name:
+Doe
+Email ID:
+sb-ofwn95151038@personal.example.com
+System Generated Password:
+N=PyxGS2
+
+
+//
+Scratch my last answer. This works way better. Add this to your <Col> component in your HomeScreen.js 
+and it will make all the cards the same height.
+
+className='align-items-stretch d-flex'
+
+https://git.heroku.com/proshoppingapp2020.git
+
+git push heroku master   
+
+https://proshoppingapp2020.herokuapp.com/ 
+
+
+https://proshoppingapp2020.herokuapp.com/ | https://git.heroku.com/proshoppingapp2020.git
+
+ heroku git:remote -a proshoppingapp2020
+ git push heroku master
